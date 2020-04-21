@@ -1,0 +1,21 @@
+body     {
+    background:rgb(241, 241, 238);
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.link1:hover {color: aqua; font-weight: bold;
+
+}
+
+.link2:active { color:red; font-style: italic; }
+
+
+.link3:visited { color: yellowgreen;
+}
+
+input:focus { color: green; font-size: 20px;}
